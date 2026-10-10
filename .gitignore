@@ -1,0 +1,13 @@
+# data and model files are downloaded by the notebook
+data/
+checkpoints/
+*.joblib
+*.safetensors
+*.bin
+
+# smoke-test outputs
+results_lean_smoke/
+
+# Python and Jupyter
+__pycache__/
+.ipynb_checkpoints/

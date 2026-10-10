@@ -1,0 +1,13 @@
+# Versions marked "tested" are the ones the notebook was run with on Google Colab.
+torch==2.11.0            # tested
+transformers==5.18.0     # tested
+scikit-learn==1.6.1      # tested
+accelerate
+sentencepiece
+codecarbon
+numpy
+pandas
+scipy
+matplotlib
+psutil
+joblib
